@@ -1,2 +1,2 @@
-cookbook-phpenv-ini
+phpenv-ini
 ===============
