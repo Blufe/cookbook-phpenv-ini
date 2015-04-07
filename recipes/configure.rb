@@ -2,7 +2,7 @@
 # Cookbook Name:: phpenv-ini
 # Recipe:: configure
 #
-# Copyright 2015, higashi.ryohei@nifty.co.jp
+# Copyright 2015, bluephoenilab@gmail.com
 #
 # All rights reserved - Do Not Redistribute
 #
